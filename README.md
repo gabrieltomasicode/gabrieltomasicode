@@ -35,13 +35,11 @@
 * 🛢️ **[PLAD (Petrophysic Logs Anomaly Detector)](https://github.com/gabrieltomasicode/PLAD-Petrophysic-logs-anomaly-detector):** Minha principal iniciativa na área de pesquisa geocientífica. É um detector de anomalias em perfis petrofísicos multi-curvas utilizando estimadores estatísticos robustos, integrando Distância de Mahalanobis e hierarquia de Z-score.
 * 🌍 **[GeoKit](https://github.com/gabrieltomasicode/GeoKit):** Pacote de notebooks e rotinas focadas em acelerar o dia a dia com dados geocientíficos. Implementa workflows supervisionados e não-supervisionados (K-means, Random Forest, PCA, transformações CLR) para discriminação de qualidade de reservatórios e condições redox.
 * 🎹 **[SelvaSonic](https://github.com/gabrieltomasicode/SelvaSonic):** Um sintetizador MIDI avançado desenvolvido em Python. Possui polifonia, controle de envelope ADSR, visualização de formas de onda e processamento de áudio em tempo real via uma GUI amigável.
-* 🥋 **Scouting de Combate com Computer Vision:** Desenvolvimento de um sistema automatizado para análise de lutas (MMA/Muay Thai). O pipeline utiliza modelos YOLO em ambientes Google Colab, treinados com imagens de lutas e datasets de ação (como UCF101) para estimativa de pose e reconhecimento de padrões de movimento.
-* 📊 **Scraper PNCP:** Pipeline de web scraping em Python direcionado aos portais de compras públicas (PNCP), estruturando grandes volumes de dados de licitações ativas diretamente em planilhas Excel para análise de inteligência de mercado.
 
 ## 🔭 Projetos Futuros e Áreas de Interesse
-
+* 🥋 **Scouting de Combate com Computer Vision:** Desenvolvimento de um sistema automatizado para análise de lutas (MMA/Muay Thai). O pipeline utiliza modelos YOLO em ambientes Google Colab, treinados com imagens de lutas e datasets de ação (como UCF101) para estimativa de pose e reconhecimento de padrões de movimento.
+* 📊 **Scraper PNCP:** Pipeline de web scraping em Python direcionado aos portais de compras públicas (PNCP), estruturando grandes volumes de dados de licitações ativas diretamente em planilhas Excel para análise de inteligência de mercado.
 * 🎛️ **Arquitetura de Plugins VST3:** Transição de projetos de processamento de sinais de áudio (atualmente prototipados em Python) para o formato padrão VST3 (usando C++), com o objetivo de desenhar arquiteturas para equalizadores paramétricos complexos inspirados no *FabFilter Pro-Q 3*.
-* 🔬 **Projeto Quimio (Pré-Sal):** Expansão dos módulos de Machine Learning e desenvolvimento de novos fluxos quimioestratigráficos focados na caracterização avançada de reservatórios do Pré-Sal.
 * 📝 **Publicações Acadêmicas:** Estruturação de artigos científicos e formatação em LaTeX para submissão no ENMC 2026.
 
 ---
