@@ -43,15 +43,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltomasicode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltomasicode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" width="48%" />
-</div>
-
----
-
 ## 📫 Conecte-se comigo
 
 <div align="center">
