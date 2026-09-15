@@ -40,7 +40,6 @@
 * 🥋 **Scouting de Combate com Computer Vision:** Desenvolvimento de um sistema automatizado para análise de lutas (MMA/Muay Thai). O pipeline utiliza modelos YOLO em ambientes Google Colab, treinados com imagens de lutas e datasets de ação (como UCF101) para estimativa de pose e reconhecimento de padrões de movimento.
 * 📊 **Scraper PNCP:** Pipeline de web scraping em Python direcionado aos portais de compras públicas (PNCP), estruturando grandes volumes de dados de licitações ativas diretamente em planilhas Excel para análise de inteligência de mercado.
 * 🎛️ **Arquitetura de Plugins VST3:** Transição de projetos de processamento de sinais de áudio (atualmente prototipados em Python) para o formato padrão VST3 (usando C++), com o objetivo de desenhar arquiteturas para equalizadores paramétricos complexos inspirados no *FabFilter Pro-Q 3*.
-* 📝 **Publicações Acadêmicas:** Estruturação de artigos científicos e formatação em LaTeX para submissão no ENMC 2026.
 
 ---
 
