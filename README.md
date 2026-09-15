@@ -61,5 +61,3 @@
 </div>
 
 <br>
-
-> ⚡ **Curiosidade:** Fora das IDEs, do Petrel e dos artigos acadêmicos, dedico meu tempo montando cronogramas intensos de treino de Muay Thai e força, ou quebrando a cabeça para encontrar a rota de alquimia mais roubada do *Skyrim* e as melhores fazendas de recursos em *Fallout 4* e *How to Survive 2*.
